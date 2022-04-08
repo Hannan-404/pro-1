@@ -6,7 +6,6 @@ os.system("clear")
 print("\t 30 April ko All Approvels Remove Krdea jaingy")
 print("\t Users Ko Again Buy Krna pady ga ")
 print("\t Shukriya.....")
-time.sleep(3)
 try:
     import requests
 except(ImportError):
