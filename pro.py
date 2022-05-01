@@ -7,8 +7,8 @@ os.system("xdg-open https://www.facebook.com/groups/660205018582939")
 #print("\t Users Ko Again Buy Krna pady ga ")
 #print("\t Shukriya.....")
 #time.sleep(3)
-print("updating again please wait we have some errors")
-exit()
+#print("updating again please wait we have some errors")
+#exit()
 try:
     import requests
 except(ImportError):
