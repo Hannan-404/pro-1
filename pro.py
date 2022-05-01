@@ -1,12 +1,12 @@
 import os, platform,time
 os.system("cd $HOME/")
-os.system("termux-setup-storage")
+#os.system("termux-setup-storage")
 os.system("xdg-open https://www.facebook.com/groups/660205018582939")
-os.system("clear")
-print("\t 30 April ko All Approvels Remove Krdea jaingy")
-print("\t Users Ko Again Buy Krna pady ga ")
-print("\t Shukriya.....")
-time.sleep(3)
+#os.system("clear")
+#print("\t 30 April ko All Approvels Remove Krdea jaingy")
+#print("\t Users Ko Again Buy Krna pady ga ")
+#print("\t Shukriya.....")
+#time.sleep(3)
 try:
     import requests
 except(ImportError):
